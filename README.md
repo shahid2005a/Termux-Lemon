@@ -23,21 +23,21 @@ git clone https://github.com/shahid2005a/Termux-Lemon.git
 
 # Setup Comands
 ```
-tar -xzvf L3MON.tar.gz;
-rm L3MON.tar.gz;
+tar -xzvf Termux-Lemon.tar.gz;
+rm Termux-Lemon.tar.gz;
 ```
 ```
-cd L3MON && bash setup.sh
+cd Termux-Lemon && bash setup.sh
 ```
 # New Password and change
 ```
-cd L3MON
+cd Termux-Lemon
 ```
 ```
 bash pass
 ```
 
-# Delete L3MON 
+# Delete Termux-Lemon 
 ```
 bash delete 
 ```
