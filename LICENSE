@@ -1,0 +1,114 @@
+
+GNU GPLv3 License - Hindi Digital Summary
+
+मुख्य बातें (Key Points)
+
+1. डिजिटल आज़ादी (Digital Freedom)
+
+· चलाने की आज़ादी - Software को किसी भी काम के लिए चला सकते हैं
+· सीखने की आज़ादी - Source code देख और सीख सकते हैं
+· बदलने की आज़ादी - Software को अपनी ज़रूरत के हिसाब से बदल सकते हैं
+· बाँटने की आज़ादी - Original या modified version दोनों बाँट सकते हैं
+
+2. साइबर सुरक्षा और पारदर्शिता (Cyber Security & Transparency)
+
+· Source code ज़रूरी - Binary distribute करते समय source code देना अनिवार्य
+· मॉडिफिकेशन नोटिस - Code में बदलाव किया है तो उसका नोटिस देना ज़रूरी
+· नो वारंटी - Software "as-is" आता है, कोई गारंटी नहीं
+
+3. डिजिटल अधिकार सुरक्षा (Digital Rights Protection)
+
+Anti-DRM Clause:
+
+· आप DRM/encryption को तोड़ सकते हैं अगर GPL rights use करने के लिए ज़रूरी हो
+· यह DMCA जैसे anti-circumvention laws के खिलाफ सुरक्षा देता है
+
+Anti-Tivoization:
+
+· Smart devices (IoT, routers, phones) में अगर GPL software है
+· तो manufacturer को "installation information" देनी होगी
+· ताकि user modified software install कर सके
+
+4. साइबर वितरण नियम (Cyber Distribution Rules)
+
+Source code देने के तरीके:
+
+1. Physical medium के साथ - CD/DVD/USB में source code
+2. Written offer के साथ - 3 साल तक source code देने का लिखित ऑफर
+3. Network server से - Free download link
+4. Peer-to-peer से - Torrent/BitTorrent के ज़रिए
+5. Same server से - Binary और source code एक ही जगह पर
+
+5. पेटेंट सुरक्षा (Patent Protection)
+
+· Contributors अपने patents free license देते हैं
+· Patent trolls के खिलाफ सुरक्षा
+· Discriminatory patent licenses की मनाही
+
+6. डिजिटल संगतता (Digital Compatibility)
+
+· AGPLv3 के साथ compatible - Web/cloud applications के लिए
+· Network interaction - AGPL के साथ combine करने पर extra network rules apply होते हैं
+
+साइबर/डिजिटल महत्वपूर्ण बिंदु
+
+🛡️ साइबर सिक्योरिटी के लिए फायदे:
+
+1. Full transparency - कोई backdoor नहीं छुपा सकते
+2. Community audit - हज़ारों developers security check कर सकते हैं
+3. Quick vulnerability fix - कोई भी developer patch बना सकता है
+
+🌐 इंटरनेट/नेटवर्क नियम:
+
+1. Websites/SaaS - अगर GPL software server पर चल रहा है तो source code देना ज़रूरी नहीं
+2. AGPL चुनें - अगर SaaS में भी source code share करना चाहते हैं
+3. Network distribution - Internet से distribute करना आसान
+
+📱 मोबाइल/आईओटी डिवाइस:
+
+1. Android apps - GPL libraries use करने पर app का code open source करना होगा
+2. IoT devices - Firmware open source करनी होगी + installation keys
+3. Smart devices - Modified firmware install करने की facility देनी होगी
+
+डिजिटल उदाहरण (Digital Examples)
+
+✅ सही उपयोग:
+
+· Linux OS (GPLv2)
+· GIMP image editor
+· WordPress (GPLv2)
+· ऐसे app जो पूरी तरह open source हैं
+
+❌ गलत उपयोग:
+
+· Proprietary app में GPL code mix करना
+· GPL software को modify करके closed-source बेचना
+· IoT device में GPL firmware lock करना
+
+⚠️ सावधानियां:
+
+1. License compatibility check करें
+2. Dual licensing possible है
+3. Static vs dynamic linking का difference समझें
+
+डिजिटल युग में GPLv3 का महत्व
+
+🔓 Open Source Movement:
+
+· Software freedom की रक्षा
+· Corporate control के खिलाफ
+· User rights की सुरक्षा
+
+🛡️ Against Digital Restrictions:
+
+· DRM के खिलाफ
+· Locked devices के खिलाफ
+· Software patents के खिलाफ
+
+🌍 Global Collaboration:
+
+· Borderless development
+· Multi-country contributions
+· Universal software rights
+
+Digital दुनिया में GPLv3 एक strong license है जो user rights, transparency और freedom को protect करती है। यह modern digital threats जैसे DRM, locked devices और patent trolling के खिलाफ shield का काम करती है।
