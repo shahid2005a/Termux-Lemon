@@ -1,0 +1,22 @@
+version: '3.7'
+
+networks:
+    internet:
+        driver: bridge
+
+services: 
+
+    digital:
+
+        container_name: digital
+        
+        build: .
+        image: digital:v0.1
+        command: bash digital.sh
+        stdin_open: true
+        tty: true
+        volumes: 
+            - $PWD/websites:/home/websites
+        networks: 
+            - internet
+        restart: always
