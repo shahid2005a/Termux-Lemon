@@ -1,3 +1,5 @@
+![logo](https://github.com/shahid2005a/Termux-Lemon/blob/main/Dgtl.png)
+
 <h1>
   <a href="https://youtube.com/shorts/CsP9VEW9JnI?si=KU17ksWt2aqZh9R4">
     🎥 Demo Video: 
@@ -53,6 +55,7 @@ bash Dgtlpsh.sh
 <a href="https://chat.whatsapp.com/JhSEMaGzYk4GbkvEr2i6WI">
   <img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group">
 </a>
+
 
 
 
